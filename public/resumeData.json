@@ -1,0 +1,201 @@
+{
+  "main": {
+    "name":"MD Amzad",
+    "occupation":"SEO developer, KeyWord Researcher,Affiliate International Marketer,Content Writer",
+    "description":"I Research and Selection  . I also teach Seo dev courses. For Hire Me Contact:+8801630-914579",
+    "image":"profilepic.jpg",
+    "bio":"I am SEO Expert,I Love to hard work in SEO,I am keyword Researcher also,I am Content Writer also",
+    "email": "amzad24@gmail.com",
+    "phone": "+8801630-914579",
+    "address":{
+      "street":"35/a Azimpur,Lalbag",
+      "city":"Dhaka",
+      "state":"Bangladesh",
+      "zip": "1205",
+      "email": "amzad24@gmail.com"
+    },
+    "website": "http://www.techguywebsolutions.com",
+    "resumedownload":"http://something.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"http://linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"http://github.com",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "resume":{
+    "education":[
+      {
+        "school":"Nasirabad University College",
+        "degree":"Gradution",
+        "graduated":"April 2015",
+        "description":"I Completed My Gradutation From Nasirabad University College with Success"
+      },
+      {
+        "school":"Mukul Niketan High School",
+        "degree":"SSC",
+        "graduated":"March 2009",
+        "description":"I Completed my secondery School  Certificate From Mukul Niketan High School with Success "
+      }
+    ],
+    "work":[
+      {
+        "company":"Kaisexteich Ltd",
+        "title":"Senior Seo Developer ",
+        "years":"March 2018- Present",
+        "description":"Since 2 years i working in Kaisexteich Ltd As Senior SEO Developer.There is Good Environment To work.This Is a Faithful Organisation"
+      },
+      {
+        "company":"Super Cool IT",
+        "title":"Senior Content Writer",
+        "years":"March 2015 - February 2017",
+        "description":"Since 2 years i working in Super Cool IT As Senior Content Writer.There is Good Environment To work.This Is a Faithful Organisation"
+      }
+    ],
+    "skills":[
+      {
+        "name":"SEO Development",
+        "level":"60%"
+      },
+      {
+        "name":"KeyWord Researcher",
+        "level":"55%"
+      },
+      {
+        "name":"Affiliate International Marketing",
+        "level":"50%"
+      },
+      {
+        "name":"Content Writing",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"SEO Development",
+        "tags":"Branding, Web Design",
+        "image":"coffee.jpg",
+        "url":"http://port1.com",
+        "modal":"#modal-01"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"KeyWord Researcher",
+        "tags":"Branding, Web Development",
+        "image":"console.jpg",
+        "url":"http://port2.com",
+        "modal":"#modal-02"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Affiliate International Marketing",
+        "tags":"Branding, Web Programming",
+        "image":"judah.jpg",
+        "url":"http://port3.com",
+        "modal":"#modal-03"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Content Writing",
+        "tags":"Photography, Design",
+        "image":"into-the-light.jpg",
+        "url":"http://port4.com",
+        "modal":"#modal-04"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Branding",
+        "tags":"Branding, Web Design",
+        "image":"farmerboy.jpg",
+        "url":"http://port5.com",
+        "modal":"#modal-05"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Photography",
+        "tags":"Photography, Graphic Design",
+        "image":"girl.jpg",
+        "url":"http://port6.com",
+        "modal":"#modal-06"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Illustration",
+        "tags":"Branding, Illustration",
+        "image":"origami.jpg",
+        "url":"http://port7.com",
+        "modal":"#modal-07"
+      },
+      {
+        "title":"Comming soon",
+        "description":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "category":"Web Development",
+        "tags":"Photography",
+        "image":"retrocam.jpg",
+        "url":"http://port8.com",
+        "modal":"#modal-08"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"John Doe"
+      },
+      {
+        "text":"Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.",
+        "user":"Steve Smith"
+      }
+    ]
+  }
+}
